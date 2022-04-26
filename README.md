@@ -1,0 +1,2 @@
+# Logseq-repository
+Logsql Repository
